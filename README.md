@@ -1,1 +1,1 @@
-# Bank-Note-Recognition
+# Bank Note Recognition (CNN)
